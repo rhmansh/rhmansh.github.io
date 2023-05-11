@@ -1,6 +1,6 @@
 /* Global styles */
 body {
-  margin: 0;
+  margin: auto;
   font-family: 'Exo 2', sans-serif;
   background-color: #1e1e1e;
   color: #f8f8f8;
@@ -84,7 +84,7 @@ ul {
 }
 
 p {
-  line-height: 1.6;
+  line-height: 1.1;
   margin-bottom: 20px;
 }
 
@@ -126,8 +126,8 @@ form input[type="submit"]:hover {
 
 /* Footer styles */
 footer {
-  margin-top: 40px;
-  padding: 20px;
+  margin-top: 15px;
+  padding: 10px;
   background-color: #1e1e1e;
   text-align: center;
   font-size: 14px;
